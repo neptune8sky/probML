@@ -6,5 +6,5 @@ Below you will find an index of the models implemented in this repository, compl
 
 | Model Name            |  Implemented   | Python Code                                                           | Julia Code                                                           |
 |-----------------------|----------------|-----------------------------------------------------------------------|----------------------------------------------------------------------|
-| Bayesian Inference    |       ❌       | [📊](https://github.com/neptune8sky/statML/blob/main/Bayes_inference/Bayes_inference.py) | [📊](https://github.com/neptune8sky/statML/blob/main/Bayes_inference/Bayes_inference.jl) |
+| Bayesian Inference    |       ❌       |  ❌ | [📊](https://github.com/neptune8sky/statML/blob/main/Bayes_inference/Bayes_inference.jl) |
 
